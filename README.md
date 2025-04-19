@@ -1,2 +1,14 @@
 # Projetos-de-Rede
-Este Repositório visa criar simulações de redes, com o objetivo de aprender e consolidar a matéria de redes de computadores
+
+Este repositório contém projetos de redes simuladas desenvolvidas com o **Cisco Packet Tracer**. Os exemplos aqui visam o aprendizado e a prática de conceitos como:
+
+- Endereçamento IP
+- Sub-redes (Subnetting)
+- Roteamento (estático e dinâmico)
+- VLANs
+- Servidores DHCP e DNS
+- Redes com NAT
+- Segurança de redes
+
+## Ferramentas
+- [Cisco Packet Tracer]
